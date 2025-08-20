@@ -28,9 +28,7 @@ This dataset simulates real-world data for an e-commerce platform, with the foll
 | `Cost`           | Cost of the items ordered                                                   |
 | `Profit`         | Profit = Sales - Cost                                                       |
 | `Profit Margin`  | Profit margin percentage for each order                                     |
-| `Payment method` | method of payment for each products                                         | 
-| 
-
+| `Payment method` | Method of payment for each product                                          |
 
 ---
 
@@ -113,7 +111,9 @@ Data Analyst | Storyteller with Data | Power BI Enthusiast
 4. Explore relationships between cost, sales, and profit margins
 
 ---
-##  Data Source
+
+## 📁 Data Source
+
 Dataset structure was simulated using a prompt to ChatGPT and customized for this portfolio project. It does not represent any real company or customer data.
 
 
